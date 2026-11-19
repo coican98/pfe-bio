@@ -1,15 +1,16 @@
 {
-  "name": "pfe-bio",
+  "name": "pfe-portifolio",
+  "version": "0.1.0",
   "private": true,
-  "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
   "dependencies": {
-    "next": "14.2.15",
-    "react": "18.3.1",
-    "react-dom": "18.3.1"
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
   }
 }
+

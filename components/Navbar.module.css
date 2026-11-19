@@ -1,0 +1,25 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: #151522;
+  padding: 15px 30px;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 20px;
+  color: #4f8cff;
+}
+
+.links a {
+  color: #ffffff;
+  text-decoration: none;
+  margin-left: 20px;
+}
+
+.links a:hover {
+  color: #4f8cff;
+}
+
